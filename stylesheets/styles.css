@@ -1,0 +1,127 @@
+body
+{
+	background-color: #163a73;
+}
+
+form
+{
+	padding: 5%;
+}
+
+div h1 
+{
+	font-family: verdana;
+}
+
+h1
+{
+	padding-top: 5%;
+	color: white;
+}
+h3
+{
+	color: white;
+}
+label 
+{
+	color:white;
+}
+th
+{
+	color:white;
+}
+.my-font
+{
+	color:white;
+	font-family: 'Roboto Slab', serif;
+}
+
+button
+{
+	margin-right: 5px;
+}
+button
+{
+	margin-left: 5px;
+}
+button a
+{
+	color: white;
+}
+footer
+{
+	color: white;
+}
+
+span
+{
+	color: white;
+}
+
+fieldset a
+{
+	color: white;
+	text-decoration: underline;
+}
+
+fieldset a:hover
+{
+	color:yellow;
+}
+
+h4 a 
+{
+	color: white;
+	text-decoration: underline;
+}
+
+h4 a:hover
+{
+	color:yellow;
+}
+li 
+{
+	color:white;
+}
+
+li a 
+{
+	color:white;
+}
+
+li a:hover
+{
+	color: yellow;
+}
+p
+{
+	color: white;
+}
+.photocontainer {
+      display:flex; 
+      margin: 0 auto; 
+      flex-direction:row; 
+      justify-content: space-around; 
+      flex-wrap: wrap; 
+}
+
+.file-chooser
+{
+	margin-top: 1em;
+}
+
+.file-chooser input
+{
+	color: white;
+}
+
+h4
+{
+	margin-top: 1em;
+	color:white;
+}
+
+.my-class
+{
+	color:black;
+}
